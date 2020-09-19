@@ -11,7 +11,20 @@ For [Termux]:
 5. git clone https://github.com/BlueBerrySans365/LINUX-Simple-scripts-.git
 ```
 
+To run script:
+```
+----------------------------
+If you don't know what names scripts have:
 
-Intest.sh - ver 1
-------------------
+cd TerSScrpt
+dir ##to see scripts
+sh *.sh # * - name of script
+----------------------------
+If you know names of scripts:
+
+sh TerSScrpt/*.sh
+----------------------------
+```
+Last UPDATE : 19.09.20 (DD/MM/YY)
+Thanks for using.
 
