@@ -25,6 +25,6 @@ If you know names of scripts:
 sh TerSScrpt/*.sh
 ----------------------------
 ```
-Last UPDATE : 19.09.20 (DD/MM/YY).
+Last UPDATE : 22.09.20 (DD/MM/YY).
 
 
